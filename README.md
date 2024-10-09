@@ -19,5 +19,4 @@
 - **Backend**: Django
 - **Database**: SQLite / MySQL
 - **Other**: Bootstrap for styling
-
 ---
